@@ -1,0 +1,28 @@
+.writtings{
+    width: 30%;
+    margin-left: 120px;
+    float: left;
+    
+}
+.hire{
+background: linear-gradient(45deg, red, purple );
+text-decoration: none;
+color: white;
+padding: 5px 5px;
+}
+.writtings1{
+    width: 30%;
+    margin-left: 120px;
+    float: left;
+    
+}
+.gap{
+    margin-bottom: 10px;
+    height: 400px;
+}
+.writtings2{
+    width: 30%;
+    margin-left: 120px;
+    float: left;
+    
+}
